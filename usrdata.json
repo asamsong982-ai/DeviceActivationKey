@@ -11,10 +11,10 @@
         "expirydate": "15-06-2025",
         "Allowoffline": false
     },
-    {
+ {
         "device_id": "138af6449bfb45af",
         "key": "parsa",
-        "expirydate": "15-06-2025",
+        "expirydate": "15-06-2029",
         "Allowoffline": false
-    }
+    },
 ]
