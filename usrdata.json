@@ -29,10 +29,4 @@
         "expirydate": "15-06-2030",
         "Allowoffline": false
     },
-{
-        "device_id": "f04f027bb9c6d4e6",
-        "key": "2428",
-        "expirydate": "31-12-2030",
-        "Allowoffline": true
-    },
 ]
