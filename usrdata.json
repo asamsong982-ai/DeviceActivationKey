@@ -47,4 +47,10 @@
         "expirydate": "15-06-2029",
         "Allowoffline": false
     },
+{
+        "device_id": "864bd2f18c232e1b",
+        "key": "HANIF",
+        "expirydate": "12-10-2026",
+        "Allowoffline": false
+    },
 ]
