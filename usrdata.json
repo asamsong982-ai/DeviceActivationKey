@@ -41,4 +41,10 @@
         "expirydate": "19-09-2026",
         "Allowoffline": false
     },
+{
+        "device_id": "c83d561dc6f2c398",
+        "key": "SOLAR",
+        "expirydate": "15-06-2029",
+        "Allowoffline": false
+    },
 ]
